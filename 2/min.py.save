@@ -1,0 +1,10 @@
+a=[2,1,3,4]
+def mini(a):
+	k=0
+	for i in a:
+		if :
+			b=
+		k+=1	
+		
+	return  b
+print mini(a)
